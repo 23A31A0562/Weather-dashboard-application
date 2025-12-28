@@ -1,0 +1,4 @@
+"""
+Weather Dashboard Application package
+"""
+
